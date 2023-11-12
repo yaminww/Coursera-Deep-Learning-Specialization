@@ -1,2 +1,2 @@
 # Deep-Learning-Specialization
-Code for Deep Learning Specialization on Coursera
+My Code for [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) on Coursera
